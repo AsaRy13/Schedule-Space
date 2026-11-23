@@ -1,0 +1,1 @@
+{application,schedule_space,[{modules,['Elixir.ScheduleSpace','Elixir.ScheduleSpace.Domain.Task','Elixir.ScheduleSpace.Infrastructure.TaskStore','Elixir.ScheduleSpace.Optimizer.Scheduler','Elixir.ScheduleSpace.Stats.TaskStats']},{optional_applications,[]},{applications,[kernel,stdlib,elixir,logger]},{description,"schedule_space"},{registered,[]},{vsn,"0.1.0"}]}.
