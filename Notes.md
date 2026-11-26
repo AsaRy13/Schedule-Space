@@ -26,3 +26,7 @@
 
 # Calender
 ## Requirements
+1. Accepts previously created tasks and new tasks.
+2. When inserting a previously created task, it sets the duration to be the average time of the task.
+3. When inserting a new task it sets the time of the task based on its complexity. Once the actual time is reported, this new task is added to the set of previously created tasks.
+4. At a set point in time that the user choses, they should report the actual time it took to do the task/tasks. These points in time can either include right at the end of the task time window for each task, or at a specific time of the day that they choose.
